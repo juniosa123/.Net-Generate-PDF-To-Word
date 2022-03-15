@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\personal\\CV\\Project\\PDFToWord\\ConvertPDFToWord\\ConvertPDFToWord\\ConvertPDFToWord.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\personal\\CV\\Project\\PDFToWord\\ConvertPDFToWord\\ConvertPDFToWord\\ConvertPDFToWord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\personal\\CV\\Project\\PDFToWord\\ConvertPDFToWord\\ConvertPDFToWord\\ConvertPDFToWord.csproj",
+        "projectName": "ConvertPDFToWord",
+        "projectPath": "C:\\Work\\personal\\CV\\Project\\PDFToWord\\ConvertPDFToWord\\ConvertPDFToWord\\ConvertPDFToWord.csproj",
+        "packagesPath": "C:\\Users\\QIN-024\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\personal\\CV\\Project\\PDFToWord\\ConvertPDFToWord\\ConvertPDFToWord\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\QIN-024\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Work\\tibero studio\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Aspose.Words": {
+              "target": "Package",
+              "version": "[22.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
